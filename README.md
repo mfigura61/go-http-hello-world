@@ -28,3 +28,10 @@ If the server immediately stops, you might need to change the `port` constant in
 ## License
 
 MIT. See `LICENSE`
+
+Запустим проект согласно инструкции автора и зайдем на http://127.0.0.1:8800/ :
+
+.. figure:: https://github.com/mfigura61/go-http-hello-world/scr1.png
+   :width: 315px
+   :align: center
+   :alt: Django Admin Interface running
