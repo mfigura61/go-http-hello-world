@@ -23,9 +23,7 @@ curl http://localhost/
 
 If the server immediately stops, you might need to change the `port` constant in [hello_world.go](https://raw.github.com/geetarista/go-http-hello-world/master/hello_world/hello_world.go).
 
-### Google App Engine
 
-The app is set up on Google App Engine. All you have to do is just visit [http://gohttphelloworld.appspot.com/](http://gohttphelloworld.appspot.com/).
 
 ## License
 
